@@ -1,6 +1,6 @@
 [
   "logistikk-og-ordre/intern-lassplan"
-  ,"kalkulatorer/tilhengerkalkulator"
-  ,"kalkulatorer/leasingkalkulator"
   ,"kalkulatorer/priskalkulator"
+  ,"kalkulatorer/leasingkalkulator"
+  ,"kalkulatorer/tilhengerkalkulator"
 ]
